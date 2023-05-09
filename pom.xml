@@ -64,6 +64,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>h2-dock</finalName>
 	</build>
 	<repositories>
 		<repository>
